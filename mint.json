@@ -63,13 +63,9 @@
             "pages": [
                 "api-reference/endpoint/get",
                 "api-reference/endpoint/create",
-                "api-reference/endpoint/delete",
-                "api-reference/get-tasks",
-                "api-reference/post-tasks",
-                "api-reference/get-tasks-1",
-                "api-reference/delete-tasks"
+                "api-reference/endpoint/delete"
             ]
         }
     ],
-    "openapi": ["/openapi-example.yaml"]
+    "openapi": ["/openapi-example-3.1.yaml"]
 }

@@ -63,11 +63,9 @@
             "pages": [
                 "api-reference/endpoint/post-tasks",
                 "api-reference/endpoint/get-tasks-1",
-                "api-reference/endpoint/delete-tasks.mdx",
-                "api-reference/endpoint/get-tasks.mdx",
-
+                "api-reference/endpoint/delete-tasks",
+                "api-reference/endpoint/get-tasks"
             ]
         }
-    ],
-    "openapi": ["/openapi-example-3.1.yaml"]
+    ]
 }

@@ -61,9 +61,8 @@
         {
             "group": "Endpoint Examples",
             "pages": [
-                "api-reference/endpoint/get",
-                "api-reference/endpoint/create",
-                "api-reference/endpoint/delete",
+                "api-reference/endpoint/post-tasks",
+                "api-reference/endpoint/get-tasks-1",
                 "api-reference/endpoint/delete-tasks.mdx",
                 "api-reference/endpoint/get-tasks.mdx",
 

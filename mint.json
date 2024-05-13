@@ -69,5 +69,6 @@
                 "api-reference/endpoint/get-tasks"
             ]
         }
-    ]
+    ],
+    "openapi": ["/api-reference/openapi-example-3-1.yaml"]
 }

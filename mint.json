@@ -38,7 +38,7 @@
         {
             "group": "Guides",
             "pages": [
-	        "essentials/authentication",
+	        "essentials/authenticate",
 	        "essentials/ratelimits",
 	        "essentials/bestpractices",
 	        "essentials/errors"
